@@ -16,7 +16,7 @@
 
 ### Propósito:
 
-- La comprobación de la onsolidación de conocimiento de Python y SQL
+- La comprobación de la consolidación de conocimiento de Python y SQL
 - El uso de control de versiones en equipo para aprender las ventajas y conflictos que genera.
 - La implementación de Scrum como marco de referencia para el desarrollo del producto, basándonos en los valores de Agile como puntos clave del trabajo en equipo y la mejora continua.
 - La mejora de la comunicación colaborativa entre los miembros del equipo.
