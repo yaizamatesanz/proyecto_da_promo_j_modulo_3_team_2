@@ -42,20 +42,20 @@ El principal objetivo es reducir la rotación de empleados y aumentar la satisfa
    ![image-1](https://github.com/user-attachments/assets/5faa7d73-ff71-428b-93e5-e56949bbe895)
 
 4. **Fase 4: A/B testing**  
-   Diseñamos y ejecutamos un experimento A/B para evaluar la relación entre la satisfacción laboral y la rotación de empleados. Los empleados se dividen en dos grupos según su nivel de satisfacción en el trabajo, y se analiza la tasa de rotación en cada grupo.
+   Diseñamos y ejecutamos un experimento A/B para evaluar la relación entre la satisfacción laboral y la rotación de empleados. Los empleados se dividen en dos grupos según su nivel de satisfacción en el trabajo, y se analiza la tasa de rotación    en cada grupo.
 
-Histplot para comprobar la normalidad:
+   Histplot para comprobar la normalidad:
 
-![image (1)](https://github.com/user-attachments/assets/e44f2ab3-9f90-40d6-8e7e-d5896e512d0d)
+   ![image (1)](https://github.com/user-attachments/assets/e44f2ab3-9f90-40d6-8e7e-d5896e512d0d)
 
-Boxplot para comprobar la homogeneidad:
+   Boxplot para comprobar la homogeneidad:
 
-![image](https://github.com/user-attachments/assets/65a75085-4509-493d-a6a3-3357bbd666dc)
+   ![image](https://github.com/user-attachments/assets/65a75085-4509-493d-a6a3-3357bbd666dc)
 
    
 
 6. **Reporte Final**  
-   Generación de un informe detallado de los resultados obtenidos en las fases previas. El reporte incluirá visualizaciones generadas en Python, así como un análisis descriptivo de los datos, que servirá de base para la toma de decisiones estratégicas.
+   Generación de un informe detallado de los resultados obtenidos en las fases previas. El reporte incluirá visualizaciones generadas en Python, así como un análisis descriptivo de los datos, que servirá de base para la toma de decisiones          estratégicas.
 
 ---
 
