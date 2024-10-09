@@ -4,7 +4,7 @@
 
 ### Desarrolladoras:
 
-Elena Crami Miñarro
+Elena Craven Miñarro
 
 Yael Parra
 
