@@ -5,7 +5,9 @@
 ### Desarrolladoras:
 
 Elena Crami Miñarro
+
 Yael Parra
+
 Yaiza Matesanz Avilés
 
 ---
@@ -59,7 +61,7 @@ Los principales datos analizados incluyen las siguientes columnas del dataset:
 
 ---
 
-##### 💻 Tecnologías utilizadas
+#### 💻 Tecnologías utilizadas
 
 - **Python**: Para la limpieza de datos, transformación y análisis.
 - **SQL**: Para el diseño y manejo de la base de datos.
