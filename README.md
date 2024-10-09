@@ -1,67 +1,84 @@
-# Proyecto grupal Módulo 3
+# 🛠️ Proyecto RetenData: Inteligencia para el Talento
 
+## 👥 Equipo Papaya Analytics
 
+### Desarrolladoras:
 
-### Nombre del equipo:
+Elena Crami Miñarro
+Yael Parra
+Yaiza Matesanz Avilés
 
-#### Papaya Analytics
+---
 
-### Nombre del proyecto:
+### Descripción del proyecto
 
-#### Proyecto ABC
+ABC Corporation, una consultora tecnológica especializada en IA y machine learning, nos ha encargado un análisis exhaustivo para identificar los factores que influyen en la retención de empleados y la satisfacción en el trabajo. En un entorno empresarial competitivo, estos elementos son clave para el éxito a largo plazo.
 
-### Componentes del equipo:
+Este proyecto aplica estadística descriptiva para identificar patrones en los datos de empleados y inferencia estadística para validar los factores que impactan en la rotación. Además, utilizamos A/B testing para medir la efectividad de intervenciones estratégicas, proporcionando recomendaciones basadas en datos para mejorar la toma de decisiones en recursos humanos.
 
-#### Elena Craven, Yael Parra, Yaiza Matesanz
+### 🎯 Objetivo
 
-### Propósito:
+El principal objetivo es reducir la rotación de empleados y aumentar la satisfacción en el trabajo a través de un análisis de datos detallado y un experimento A/B. Los resultados ayudarán a ABC Corporation a identificar factores críticos y tomar decisiones informadas que contribuyan al bienestar organizacional y la retención de talento.
 
-- La comprobación de la consolidación de conocimiento de Python y SQL
-- El uso de control de versiones en equipo para aprender las ventajas y conflictos que genera.
-- La implementación de Scrum como marco de referencia para el desarrollo del producto, basándonos en los valores de Agile como puntos clave del trabajo en equipo y la mejora continua.
-- La mejora de la comunicación colaborativa entre los miembros del equipo.
-- La mejora de habilidades de comunicación individual en público al exponer el proyecto en la sesión final.
+---
 
+### 📑 Estructura del proyecto
 
-### Fases:
+1. **Fase 1: Análisis exploratorio de datos (EDA)**  
+   Comprensión inicial de los datos, detección de patrones y preparación de los datos para su posterior análisis. Se incluye la limpieza de datos, detección de valores atípicos y análisis descriptivo.
 
-**1.  Fase 1: Análisis Exploratorio de Datos(EDA).**\
-**2.  Fase 2: Transformación de los datos.**\
-**3.  Fase 3: Diseño de BBDD e Inserción de los datos (estructura).**\
-**4.  Fase 4: Problema de A/B Testing.**\
-**5.  Fase 5: Creación de una ETL.**\
-**6.  Fase 6: Reporte de los resultados (visualización en Python).**
+2. **Fase 2: Transformación de datos**  
+   Procesamiento de los datos para mejorar su calidad y utilidad. Esto incluye:
+   - Corrección de errores tipográficos.
+   - Conversión de tipos de datos.
+   - Normalización y estandarización.
+   - Eliminar duplicados y valores inconsistentes.
 
-### Instalaciones: 
+3. **Fase 3: Diseño de la base de datos**  
+   Creación de una base de datos relacional para almacenar y gestionar eficientemente los datos transformados. El diseño incluye el modelo Entidad-Relación (ER), definición de tablas, claves primarias y relaciones.
 
-#### Python:
+   ![image-1](https://github.com/user-attachments/assets/5faa7d73-ff71-428b-93e5-e56949bbe895)
 
-**1.Descarga el instalador:** Visita la web oficial de [Python](https://www.python.org/) y descarga el instalador correspondiente a tu sistema operativo (Windows, macOS, Linux).
+4. **Fase 4: A/B testing**  
+   Diseñamos y ejecutamos un experimento A/B para evaluar la relación entre la satisfacción laboral y la rotación de empleados. Los empleados se dividen en dos grupos según su nivel de satisfacción en el trabajo, y se analiza la tasa de rotación en cada grupo.
 
-**2.Ejecuta el instalador:** Sigue las instrucciones para descargarte las extensiones necesarias.
+5. **Reporte Final**  
+   Generación de un informe detallado de los resultados obtenidos en las fases previas. El reporte incluirá visualizaciones generadas en Python, así como un análisis descriptivo de los datos, que servirá de base para la toma de decisiones estratégicas.
 
-<img src="https://github.com/elenacrami/mi_primer_repo/blob/main/Python-Logo.png" width="200px" />
+---
 
-#### Herramienta de gestión de base de datos: MYSQL Workbench
+### 🗂️ Datos utilizados
 
-**1.Descarga el instalador:** Visita la página oficial de [MySQL](https://dev.mysql.com/) y descarga el instalador correspondiente a tu sistema operativo (Windows, macOS, Linux).
+Los principales datos analizados incluyen las siguientes columnas del dataset:
 
-**2.Ejecuta el instalador:** Sigue las instrucciones del asistente de instalación, seleccionando las opciones que se adapten a tus necesidades.
+- Datos relacionados con los empleados.
+- Datos relacionados con el organigrama.
+- Datos relacionados con el historial interno del empleado.
+- Datos relacionados con las nóminas de los empleados.
+- Datos relacionados con la satisfacción del empleado.
 
-**3.Configura MySQL:** Una vez instalado, configura el servidor MySQL estableciendo una contraseña segura para el usuario root y otros parámetros necesarios.
+---
 
-<img src="https://github.com/elenacrami/mi_primer_repo/blob/main/Mysql_logo.png" width="200px" />
+##### 💻 Tecnologías utilizadas
 
+- **Python**: Para la limpieza de datos, transformación y análisis.
+- **SQL**: Para el diseño y manejo de la base de datos.
+- **Pandas y NumPy**: Para el análisis de datos.
+- **Matplotlib y Seaborn**: Para las visualizaciones.
+- **GitHub**: Control de versiones y colaboración en equipo.
 
-### Conceptos básicos:
+---
 
-POR COMPLETAR
+### 📅 Planificación
 
-### Ejemplos de código:
+Este proyecto se organiza en **2 sprints** para asegurar un progreso continuo y revisión iterativa:
 
-POR COMPLETAR
+- **Sprint 1**: Análisis exploratorio de datos (EDA) y transformación de datos.
+- **Sprint 2**: Implementación de la base de datos y A/B Testing
 
-### Contacto:
+---
+
+### 👥 Contacto
 
 <img src="https://github.com/elenacrami/mi_primer_repo/blob/main/gmail.png" width="25px" />
 
@@ -78,3 +95,5 @@ POR COMPLETAR
 [LinkedIn Yael Parra](https://www.linkedin.com/in/yael-parra/)
 
 [LinkedIn Yaiza Matesanz](https://www.linkedin.com/in/yaiza-matesanz-aviles/)
+
+
