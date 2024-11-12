@@ -4,11 +4,11 @@
 
 ### Desarrolladoras:
 
-Elena Craven Miñarro
+[Yael Parra](https://www.linkedin.com/in/yael-parra/)
 
-Yael Parra
+[Elena Craven Miñarro](https://www.linkedin.com/in/elenacravenmiñarro/)
 
-Yaiza Matesanz Avilés
+[Yaiza Matesanz](https://www.linkedin.com/in/yaiza-matesanz-aviles/)
 
 ---
 
@@ -102,9 +102,9 @@ Este proyecto se organiza en **2 sprints** para asegurar un progreso continuo y 
 
 <img src="https://github.com/elenacrami/mi_primer_repo/blob/main/linkedin.png" width="25px" />
 
-[LinkedIn Elena Craven Miñarro](https://www.linkedin.com/in/elenacravenmiñarro/)
-
 [LinkedIn Yael Parra](https://www.linkedin.com/in/yael-parra/)
+
+[LinkedIn Elena Craven Miñarro](https://www.linkedin.com/in/elenacravenmiñarro/)
 
 [LinkedIn Yaiza Matesanz](https://www.linkedin.com/in/yaiza-matesanz-aviles/)
 
